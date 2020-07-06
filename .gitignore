@@ -1,0 +1,12 @@
+*.exe
+*.zip
+*.rar
+*(2019-2020-2)课表.pdf
+
+/web-design/
+/LearnOpenGL/
+/*Japanese/
+/2020春季实习/
+
+.vscode
+.vs

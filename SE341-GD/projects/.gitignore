@@ -1,0 +1,14 @@
+/Empty/
+/testPro/
+/Unity-Project-Maze-VR/
+*/Library/
+*/Logs/
+*/obj/
+*/Packages/
+*/ProjectSettings/
+*/Resources/
+*/Release*/
+
+*.csproj.user
+*.csproj
+*.sln
